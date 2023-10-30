@@ -3,12 +3,12 @@
 ## How to reach me?
 
 <p>
-<a href="mailto:contato@thiagoaio.dev" target="_blank" style="text-decoration: none;">
-	<img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+<a href="mailto:contato@thiagoaio.dev" target="_blank">
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
 </a>
 
-<a href="https://www.linkedin.com/in/thiagoaio/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230080B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+<a href="https://www.linkedin.com/in/thiagoaio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
 </a>
 
 <img src="https://img.shields.io/badge/thiagogadget-%237289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" />
